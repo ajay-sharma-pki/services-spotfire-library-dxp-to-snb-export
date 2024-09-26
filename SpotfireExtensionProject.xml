@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pbp:PackageBuilderProject SchemaVersion="1.1" Id="349a3022-7a75-4d65-bfb9-eedbd81cd040" Name="SpotfireLibraryToSNBExport" Version="1.0.0.10" IntendedClient="Core" xmlns:pbp="http://spotfire.tibco.com/PackageBuilderProject.xsd">
+  <pbp:ModuleFile RelativePath="module.xml" UpdateAutomatically="true" />
+  <pbp:BuildFolder RelativePath="bin\Debug" />
+  <pbp:Files>
+    <pbp:File RelativePath="Microsoft.Bcl.AsyncInterfaces.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Microsoft.Bcl.AsyncInterfaces.xml" Included="true" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Microsoft.IdentityModel.Abstractions.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Microsoft.IdentityModel.Abstractions.xml" Included="true" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Microsoft.IdentityModel.JsonWebTokens.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Microsoft.IdentityModel.JsonWebTokens.xml" Included="true" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Microsoft.IdentityModel.Logging.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Microsoft.IdentityModel.Logging.xml" Included="true" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Microsoft.IdentityModel.Tokens.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Microsoft.IdentityModel.Tokens.xml" Included="true" ExtensionAssembly="false" />
+    <pbp:File RelativePath="module.xml" Included="true" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Newtonsoft.Json.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="SpotfireLibraryToSNBExport.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="System.Buffers.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="System.IdentityModel.Tokens.Jwt.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="System.IdentityModel.Tokens.Jwt.xml" Included="true" ExtensionAssembly="false" />
+    <pbp:File RelativePath="System.Memory.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="System.Net.Http.Json.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="System.Numerics.Vectors.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="System.Runtime.CompilerServices.Unsafe.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="System.Text.Encodings.Web.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="System.Text.Json.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="System.Threading.Tasks.Extensions.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="System.ValueTuple.dll" Included="true" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Spotfire.Dxp.Application.dll" Included="false" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Spotfire.Dxp.Application.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Spotfire.Dxp.Automation.Framework.dll" Included="false" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Spotfire.Dxp.Automation.Framework.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Spotfire.Dxp.Data.dll" Included="false" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Spotfire.Dxp.Data.Formats.Sbdf.dll" Included="false" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Spotfire.Dxp.Data.Formats.Sbdf.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Spotfire.Dxp.Data.Formats.Stdf.dll" Included="false" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Spotfire.Dxp.Data.Formats.Stdf.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Spotfire.Dxp.Data.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Spotfire.Dxp.Deployment.dll" Included="false" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Spotfire.Dxp.Deployment.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Spotfire.Dxp.Forms.dll" Included="false" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Spotfire.Dxp.Forms.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Spotfire.Dxp.Framework.dll" Included="false" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Spotfire.Dxp.Framework.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Spotfire.Dxp.Internal.dll" Included="false" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Spotfire.Dxp.Internal.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Spotfire.Dxp.Services.dll" Included="false" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Spotfire.Dxp.Services.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Spotfire.Dxp.Web.Controls.dll" Included="false" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Spotfire.Dxp.Web.Controls.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="Spotfire.Dxp.Web.dll" Included="false" ExtensionAssembly="true" />
+    <pbp:File RelativePath="Spotfire.Dxp.Web.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="SpotfireLibraryToSNBExport.dll.config" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="SpotfireLibraryToSNBExport.pdb" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="System.Buffers.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="System.Memory.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="System.Net.Http.Json.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="System.Numerics.Vectors.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="System.Runtime.CompilerServices.Unsafe.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="System.Text.Encodings.Web.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="System.Text.Json.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="System.Threading.Tasks.Extensions.xml" Included="false" ExtensionAssembly="false" />
+    <pbp:File RelativePath="System.ValueTuple.xml" Included="false" ExtensionAssembly="false" />
+  </pbp:Files>
+</pbp:PackageBuilderProject>

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<module>
+  <id>349a3022-7a75-4d65-bfb9-eedbd81cd040</id>
+  <name>SpotfireLibraryToSNBExport</name>
+  <version>1.0.0.10</version>
+  <intendedClient>Core</intendedClient>
+  <assemblies>
+    <assembly>
+      <fullname>Microsoft.Bcl.AsyncInterfaces, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51</fullname>
+      <codebase>Microsoft.Bcl.AsyncInterfaces.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>Microsoft.IdentityModel.Abstractions, Version=8.0.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</fullname>
+      <codebase>Microsoft.IdentityModel.Abstractions.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>Microsoft.IdentityModel.JsonWebTokens, Version=8.0.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</fullname>
+      <codebase>Microsoft.IdentityModel.JsonWebTokens.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>Microsoft.IdentityModel.Logging, Version=8.0.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</fullname>
+      <codebase>Microsoft.IdentityModel.Logging.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>Microsoft.IdentityModel.Tokens, Version=8.0.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</fullname>
+      <codebase>Microsoft.IdentityModel.Tokens.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed</fullname>
+      <codebase>Newtonsoft.Json.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>SpotfireLibraryToSNBExport, Version=1.0.0.0, Culture=neutral, PublicKeyToken=4d95002c27fab778</fullname>
+      <codebase>SpotfireLibraryToSNBExport.dll</codebase>
+      <compatibility>
+        <min-version>1.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51</fullname>
+      <codebase>System.Buffers.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>System.IdentityModel.Tokens.Jwt, Version=8.0.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</fullname>
+      <codebase>System.IdentityModel.Tokens.Jwt.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51</fullname>
+      <codebase>System.Memory.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>System.Net.Http.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51</fullname>
+      <codebase>System.Net.Http.Json.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</fullname>
+      <codebase>System.Numerics.Vectors.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</fullname>
+      <codebase>System.Runtime.CompilerServices.Unsafe.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>System.Text.Encodings.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51</fullname>
+      <codebase>System.Text.Encodings.Web.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>System.Text.Json, Version=8.0.0.4, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51</fullname>
+      <codebase>System.Text.Json.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51</fullname>
+      <codebase>System.Threading.Tasks.Extensions.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+    <assembly>
+      <fullname>System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51</fullname>
+      <codebase>System.ValueTuple.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+  </assemblies>
+  <extensions>
+    <addIn fullTypeName="SpotfireLibraryToSNBExport.TasksAddIn, SpotfireLibraryToSNBExport, Version=1.0.0.0, Culture=neutral, PublicKeyToken=4d95002c27fab778" />
+  </extensions>
+</module>
